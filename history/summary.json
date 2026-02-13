@@ -5,16 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.notestars.me.ico",
     "slug": "git-lab",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.15%",
+    "uptimeDay": "88.30%",
+    "uptimeWeek": "96.15%",
+    "uptimeMonth": "96.15%",
+    "uptimeYear": "96.15%",
     "time": 728,
-    "timeDay": 780,
+    "timeDay": 0,
     "timeWeek": 728,
     "timeMonth": 728,
     "timeYear": 728,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-13": 110,
+      "2026-02-12": 59
+    }
   }
 ]
